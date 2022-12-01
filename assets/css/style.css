@@ -472,22 +472,22 @@ body {
 }
 
 .yb {
-    background-image: url(/assets/images/social-yb.png);
+    background-image: url(../images/social-yb.png);
     background-size: 22px 16px;
 }
 
 .vk {
-    background-image: url(/assets/images/social-vk.png);
+    background-image: url(../images/social-vk.png);
     background-size: 28px 16px;
 }
 
 .fb {
-    background-image: url(/assets/images/social-fb.png);
+    background-image: url(../images/social-fb.png);
     background-size: 11px 20px;
 }
 
 .in {
-    background-image: url(/assets/images/social-in.png);
+    background-image: url(../images/social-in.png);
     background-size: 22px 22px;
 }
 
